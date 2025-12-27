@@ -1,5 +1,8 @@
 # Laptop-Price-Analysis-project
 
+<img width="296" height="234" alt="image" src="https://github.com/user-attachments/assets/a69d9976-86ea-455b-ba4e-5047929182f3" />
+
+
 This project focuses on analyzing laptop pricing data to understand how different hardware specifications and brands influence laptop prices.  
 The analysis follows an **industry-style data analyst workflow**, emphasizing exploratory data analysis (EDA), visualization, and business insights.
 
